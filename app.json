@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "dwf26rs-calculator",
-    "slug": "dwf26rs-calculator",
+    "name": "RaCalculator",
+    "slug": "racalculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#F0745C"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
