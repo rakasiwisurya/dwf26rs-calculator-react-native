@@ -1,6 +1,6 @@
 import React from "react";
 import { Box } from "native-base";
-import Calculator from "./src/components/Calculator";
+import Calculator from "./src/screens/Calculator";
 
 export default function Container() {
   return (
